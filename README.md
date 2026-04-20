@@ -1,2 +1,0 @@
-# D
-digital_ocean
